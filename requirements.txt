@@ -1,3 +1,4 @@
 amazon-textract-textractor==1.3.2
 amazon-textract-prettyprinter==0.1.3
-Pillow==9.5.0
+Pillow
+ipykernel
