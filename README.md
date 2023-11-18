@@ -1,5 +1,5 @@
 # Amazon Textract Demo
-This code demonstrates how you can use Python SDK for Amazon Textract for document processing. 
+This is the companion code repository for [this blog article](https://blog.cloudbuff.in/part-ii-automate-invoice-processing-using-aws-textract). It demonstrates how you can use Python SDK for Amazon Textract for document processing. 
 
 _**As part of the AWS Free Tier, you can get started with Amazon Textract for free. The Free Tier lasts for three months, and new AWS customers can analyze up to 100 invoice pages per month. Beyond this, there are charges for using Textract.**_
 
